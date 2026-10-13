@@ -4,8 +4,10 @@
 This project analyzes retail sales data using SQL and Power BI to understand revenue, profit, category performance, and city-wise sales.
 
 ## Tools Used
+- Microsoft Excel
 - SQL
 - PostgreSQL
+- Python
 - Microsoft Power BI
 - DAX measures
 
